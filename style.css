@@ -10,11 +10,66 @@ body {
 h3 {
   font-family: 'Zen Loop', cursive;
     font-weight: bold;
+    padding: 5px;
 }
 .navbar {
     font-family: 'Zen Loop', cursive;
 } 
-#imgmaam {
-    width: 200px;
-    height: 200px;
+.campuslifeimgsec {
+    border: 1px solid #C7C7C7;
+    padding-right: 0px;
+    padding-left: 0px;
+    float: none;
+}
+#placesincampusid {
+    margin-top: 10px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+    font-family: 'Zen Loop', cursive;
+}
+.movie_text p{
+    font-family: 'Zen Loop', cursive;
+    font-size: 30px;
+}
+#desc {
+   font-family: 'Zen Loop', cursive;
+    font-weight: bold;
+    font-size: 34px;
+    color: white;
 }
