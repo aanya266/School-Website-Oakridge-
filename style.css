@@ -73,3 +73,14 @@ margin-left: 20px;
     font-size: 34px;
     color: white;
 }
+.virtual_li img{
+    width: 300px;
+    height: 300px;
+}
+.virtual_li {
+margin-top: 13px; 
+}
+.virtual_li h4{
+    border-bottom: 1px solid white; 
+    padding: 8px; 
+}
