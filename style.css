@@ -84,3 +84,10 @@ margin-top: 13px;
     border-bottom: 1px solid white; 
     padding: 8px; 
 }
+h5 {
+    font-weight: 900;
+}
+#footer{
+    height: 20px;
+    background-color: white;
+}
